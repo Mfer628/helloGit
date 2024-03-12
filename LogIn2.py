@@ -1,2 +1,2 @@
-print("LogIn2" + 5)
-print ("Que hubo que ondiwis")
+
+print("LogIn2","Todo good")
