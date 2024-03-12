@@ -1,1 +1,1 @@
-print("Solo se que no se nada no se nada v2")
+print("Solo se que no se nada no se nada , ok como digas ")
