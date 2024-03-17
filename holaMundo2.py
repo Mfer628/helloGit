@@ -1,1 +1,1 @@
-print("Solo se que no se nada no se nada , ok como digas ")
+print("Esto es lo nuevo  que tanto eh querido aprender!!")
